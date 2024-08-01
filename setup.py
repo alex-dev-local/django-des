@@ -51,13 +51,13 @@ setup(
     long_description=readme + '\n\n' + history,
     author='Jamie Counsell',
     author_email='jamiecounsell@me.com',
-    url='https://github.com/jamiecounsell/django-des',
+    url='https://github.com/alex-dev-local/django-des',
     packages=[
         'des',
     ],
     include_package_data=True,
     install_requires=[
-        'django-solo==1.1.3'
+        'django-solo==2.3.0'
     ],
     license="MIT",
     zip_safe=False,
