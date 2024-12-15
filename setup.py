@@ -57,7 +57,7 @@ setup(
     ],
     include_package_data=True,
     install_requires=[
-        'django-solo==2.3.0'
+        'django-solo==2.4.0'
     ],
     license="MIT",
     zip_safe=False,
